@@ -28,7 +28,7 @@ I am a Python dev Student <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MG
 - :bullettrain_side: Now working on Russian Railway
 
 
-## :hammer_and_wrench: My stack:
+## My stack:
 
 - Python (Django, PyTest)
 - SQL (PostgreSQL)
